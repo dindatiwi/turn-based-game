@@ -12,7 +12,7 @@ Requirements:
 To play the game check the link below:
 https://kpochojka.github.io/turn-based-game/
 
-#Code example
+# Code example
 
 // add components to the map function like obstacles, weapon, players, which is used by 'add' function by their
 // function constructor.
